@@ -1,0 +1,35 @@
+/* #mainbox{
+    height: 400px;
+    width: 700px;
+    background-color: brown;
+} */
+.main-form{
+    background-color: darkseagreen;
+    height: 200px;
+    width: 100%;
+    padding-top: 100px;
+    text-align: center;
+    position: relative;
+}
+#btcreate{
+   position: absolute;
+   bottom: 80px;
+   left: 210px;
+}
+.listUser{
+    height: 200px;
+    width: 300px;
+    background-color: darkgrey;
+    position: relative;
+    border-radius: 3px;
+}
+
+.deleteUser{
+    height: 20px;
+    width: 30px;
+   background-color: white;
+   position: absolute;
+   top: 0px;
+   right: 0px;
+   
+}
